@@ -3,3 +3,4 @@
 __author__ = 'weiha'
 __time__ = '2020/8/17 21:36'
 print(123)
+print(7777)
